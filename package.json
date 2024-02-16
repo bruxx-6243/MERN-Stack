@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "type": "module",
+  "author": "Fariol Blondeau HashCode",
+  "description": "A simple web server",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.2"
+  }
+}
